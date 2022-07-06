@@ -23,7 +23,7 @@ https://docs.edgeimpulse.com/docs/tutorials/detect-objects-using-fomo
 
 ## 使用:
 1. 把 labels.txt 和 trained.tflite 拖到OpenMV自带的U盘中。
-2. 使用OpenMV IDE运行 ei_image_classification.py。
+2. 使用OpenMV IDE运行 ei_object_detection.py。
 3. 你可以在终端中看到结果.
 
 ## 结果
