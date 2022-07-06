@@ -1,7 +1,7 @@
 # Traffic-Sign-FOMO
 
 A neural network model for actual road traffic sign target detection on OpenMV Cam.
-[中文README](https://github.com/SingTown/Traffic-Sign-FOMO/edit/main/README-CN.md)
+[中文README](https://github.com/SingTown/Traffic-Sign-FOMO/blob/main/README-CN.md)
 
 
 This model I trained with edgeimpulse, tutorial:
