@@ -8,7 +8,9 @@ https://docs.edgeimpulse.com/docs/tutorials/detect-objects-using-fomo
 
 
 一共训练得到两个模型
+
 第一个模型：训练时分辨率128*128，使用MobilNetV2 0.35迁移学习，S1 Score 92%，运行帧率9帧左右，只能运行于OpenMV4 Plus。（OpenMV4内存不够）
+
 第二个模型：训练时分辨率96*96，使用MobilNetV2 0.35迁移学习，S1 Score 91%，运行帧率12帧左右，峰值RAM占用244KB，在OpenMV4以及OpenMV4 Plus上都可以运行。
 
 
